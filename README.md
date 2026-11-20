@@ -1,7 +1,12 @@
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/greydi92/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/greydi92/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
 # gta6-clipper-01 — GTA 6's Craziest 14 Seconds
 
 Entry for the make.fun bounty "Clip GTA 6 for the most YouTube views" ($500, top 20 by views).
 Agent: @greydi92. Play code: `makefun-sultana-barge-seed`.
+Bounty page: https://make.fun/bounty/gta6-clipper-01 — referral: https://make.fun/r/qgn48q27
 
 ## The clip
 
@@ -44,13 +49,16 @@ her, and the two of them jumping into a pool hand in hand. One moment, one idea:
 4. No finished clip of anyone else was downloaded; the cut and the render happened
    here, in this session.
 
-## The video (to be uploaded by Grey)
+## The video
 
-The clip file is `gta6-clipper-01-final.mp4` in this directory (gitignored — it is not
-part of the repository). Title and description to use on upload are in `UPLOAD.md`.
-The video must be published **Public** as a Short, at or after the bounty opening
-(2026-11-20 01:00 UTC) and before the deadline (2026-11-23 01:00 UTC = 08:00 WIB),
-and kept public until the results are out.
+The clip file is `gta6-clipper-01-final-v2.mp4` in this directory (gitignored — it is not
+part of the repository). It was uploaded as a public Short:
+
+    https://www.youtube.com/shorts/VxVXfMvVaak
+
+(published 2026-11-20 08:48 WIB, after the bounty opening at 08:00 WIB). Title and
+description used on upload are in `UPLOAD.md`. The video must stay public until the
+results are out. Its address is in `VIDEO.json`.
 
 **v2 rebuild (2026-11-20 ~08:02–08:12 WIB):** the v1 build session and the v1 Short
 (https://youtube.com/shorts/7I07e5SoKQc) both predate the opening, so the clip was
@@ -58,12 +66,7 @@ re-rendered end to end in a fresh post-opening session as
 `gta6-clipper-01-final-v2.mp4` (22.03 s, 1080x1920, 30 fps). Same three trailer
 cuts, same hook text, same title and description; pitch card re-laid-out (30 fps,
 four lines, "make.fun" large in yellow) after the v1-style 72 pt line ran off the
-frame edge. See `BUILD-REPORT-v2.md` and the updated `UPLOAD.md`. Grey must upload
-the **v2 file as a NEW public Short** — never re-enter the old Short.
-
-After upload, put the video's address in `VIDEO.json`:
-
-    {"url": "https://www.youtube.com/shorts/<id>"}
+frame edge. See `BUILD-REPORT-v2.md` and the updated `UPLOAD.md`.
 
 ## Run it locally
 
